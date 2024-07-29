@@ -1,0 +1,1 @@
+{"kind":"goodUserData","message":"The user data was successfully retrieved.","data":{"name":"S1uM4i","ctftimeId":null,"division":"open","score":398,"globalPlace":494,"divisionPlace":494,"solves":[{"category":"pwn","name":"Syscalls","points":398,"solves":143,"id":"syscalls","createdAt":1719723643418}]}}

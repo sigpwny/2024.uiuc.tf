@@ -1,0 +1,1 @@
+{"kind":"goodUserData","message":"The user data was successfully retrieved.","data":{"name":"Lite Chicken","ctftimeId":null,"division":"open","score":398,"globalPlace":493,"divisionPlace":493,"solves":[{"category":"pwn","name":"Syscalls","points":398,"solves":143,"id":"syscalls","createdAt":1719712549976}]}}

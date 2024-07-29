@@ -1,0 +1,1 @@
+{"kind":"goodUserData","message":"The user data was successfully retrieved.","data":{"name":"lmongol","ctftimeId":null,"division":"open","score":398,"globalPlace":492,"divisionPlace":492,"solves":[{"category":"pwn","name":"Syscalls","points":398,"solves":143,"id":"syscalls","createdAt":1719659958485}]}}
